@@ -3,4 +3,4 @@ freecodecamp的一个任务
 
 用了响应式设计和flex布局
 
-codepen地址：https://codepen.io/jiajiayang/pen/ybRzKW
+[戳我在线浏览](https://yangpeijia.github.io/Build-a-Tribute-Page/)
